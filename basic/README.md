@@ -1,3 +1,5 @@
+This is a simple cart application. You can add / modify / delete items to a cart. This app is connected to a database. To use this app, run the cart.sql file in the sql folder. You may login with admin/admin or demo/demo.
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
